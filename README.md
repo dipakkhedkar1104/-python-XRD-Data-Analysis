@@ -12,4 +12,4 @@ material science principles, providing valuable insights into the crystallograph
 ![DATA](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png)
 
 - ## Plot Of XRD Pattern 
-![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png)
+![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/image.png)
