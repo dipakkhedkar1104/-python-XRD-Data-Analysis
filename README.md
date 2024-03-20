@@ -15,4 +15,6 @@ material science principles, providing valuable insights into the crystallograph
 
 - ## Plot Of XRD Pattern
  <p> Here, we identified the peaks and mark them with * so we can easily identify peaks from the graph which is above the given set values for height and from that get effecient and accurate values for the further calculations.</p>
+ 
 ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/image.png)
+
