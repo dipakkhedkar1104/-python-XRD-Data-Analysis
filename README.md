@@ -9,8 +9,9 @@ material science principles, providing valuable insights into the crystallograph
 
 ## Screenshots
 - ## XRD Data Of Zn Nano-Powder
+  Using pandas library we loaded the our data.csv file which containes numeric data for theta and intensity parameters which required to plot XRD pattern.
 ![DATA](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png)
 
 - ## Plot Of XRD Pattern
-  Here, we identified the peaks and mark them with * so we can easily identify peaks from the graph and get effecient and accurate values for the further calculations.
+  Here, we identified the peaks and mark them with * so we can easily identify peaks from the graph which is above the given set values for height and from that get effecient and accurate values for the further calculations.
 ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/image.png)
