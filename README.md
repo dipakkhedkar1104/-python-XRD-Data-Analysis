@@ -20,7 +20,9 @@ material science principles, providing valuable insights into the crystallograph
 
 - ## Calculate d-Spacing and Lattice parameters (a,b,c)
  <p> Here is the graph from which we calculate the FWHM (full width half maxima), for that we mark vertical straigth line and then calculate the difference between two line i.e is our value for FWHM which required for further calculations.</p>
+ 
  ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/fwhm_plot.jpg)
+ 
  <p> Here, we find corresponding hkl values and from that we calculated the d-spacing for perticular peak using formula 1/d2 = (h^2 + k^2 + l^2).</p>
  <p> After d-spacing we calculate the approx. values of lattice parameter i.e a,b and c. </p>
  
