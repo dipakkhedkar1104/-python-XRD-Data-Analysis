@@ -8,5 +8,5 @@ Python programming and pymatgen library but also showcased a deep understanding 
 material science principles, providing valuable insights into the crystallographic properties of materials.
 
 ## Screenshots
--## XRD Data Of Zn Nano-Powder
+- ## XRD Data Of Zn Nano-Powder
 ![DATA](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png)
