@@ -18,7 +18,7 @@ material science principles, providing valuable insights into the crystallograph
  
 ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/image.png)
 
-- ## Calculate d-Spacing and Lattice parameters (a,b,c)
+- ## Calculate d-Spacing, Lattice parameters (a,b,c) and FWHM
  <p> Here is the graph from which we calculate the FWHM (full width half maxima), for that we mark vertical straigth line and then calculate the difference between two line i.e is our value for FWHM which required for further calculations.</p>
  
  ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/fwhm_plot.jpg)
@@ -27,4 +27,6 @@ material science principles, providing valuable insights into the crystallograph
  <p> After d-spacing we calculate the approx. values of lattice parameter i.e a,b and c. </p>
  
 ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/FWHM_Grain_size_abc.jpg)
+
+
 
