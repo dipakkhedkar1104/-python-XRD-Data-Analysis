@@ -10,3 +10,6 @@ material science principles, providing valuable insights into the crystallograph
 ## Screenshots
 - ## XRD Data Of Zn Nano-Powder
 ![DATA](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png)
+
+- ## Plot Of XRD Pattern 
+![DATA]([https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/image.png])
