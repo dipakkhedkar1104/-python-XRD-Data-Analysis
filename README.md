@@ -29,4 +29,9 @@ material science principles, providing valuable insights into the crystallograph
 ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/FWHM_Grain_size_abc.jpg)
 
 
+- ## Comparison of Calculated Data with JCPDS data
+ <p> In this we have standard values of result data and we will comparing that with calculated values. </p>
+ 
+ ![Plot1](https://github.com/dipakkhedkar1104/-python-XRD-Data-Analysis/blob/main/Images/jcpds_compr.jpg)
+
 
